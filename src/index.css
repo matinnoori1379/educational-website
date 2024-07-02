@@ -1,0 +1,15 @@
+@font-face {
+    font-family: lalezar;
+    src: url("./assest/fonts/Lalezar-Regular.ttf");
+}
+@font-face {
+    font-family: yekan;
+    src: url("./assest/fonts/Yekan.ttf");
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "yekan" , sans-serif;
+}

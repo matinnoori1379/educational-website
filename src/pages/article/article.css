@@ -1,0 +1,6 @@
+.wrapper{
+    text-align: center;
+}
+.wrapper .btn .active{
+    color: black;
+}
